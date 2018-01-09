@@ -19,11 +19,7 @@
 #include  "io.h"
 #include  "readfile.h"
 
-//--
-
-//Most populares -Testando!!1132165498461768!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-//int main is the main function ALLWAYS!!!!
+//David
 
 using namespace std;
 using namespace std::chrono;

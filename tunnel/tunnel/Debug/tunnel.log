@@ -1,0 +1,8 @@
+﻿  readfile.cpp
+  main.cpp
+c:\users\david\documents\github\kninanya\tunnel\main.cpp(79): warning C4101: 'hypotenuse': unreferenced local variable
+c:\users\david\documents\github\kninanya\tunnel\main.cpp(79): warning C4101: 'cos': unreferenced local variable
+c:\users\david\documents\github\kninanya\tunnel\main.cpp(79): warning C4101: 'sen': unreferenced local variable
+  io.cpp
+  Generating Code...
+  tunnel.vcxproj -> C:\Users\DAVID\Documents\GitHub\kninanya\Tunnel\tunnel\Debug\tunnel.exe
